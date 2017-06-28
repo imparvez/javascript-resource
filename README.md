@@ -12,6 +12,9 @@ https://davidwalsh.name/event-delegate
 4. Use JavaScript Fetch API to get data
 https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
 
+5. JSON and AJAX/AJAJ
+https://gist.github.com/anonymous/7a5017309f338bc055fd4183a03d70ee
+
 ### Online Video Courses:
 1. Watch and Code - Beginner
 https://watchandcode.com/p/practical-javascript
