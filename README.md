@@ -18,6 +18,9 @@ https://gist.github.com/anonymous/7a5017309f338bc055fd4183a03d70ee
 6. Callbacks
   a. https://zellwk.com/blog/callbacks/
 
+7. ES6
+  a. https://zellwk.com/blog/es6/
+
 ### Online Video Courses:
 1. Watch and Code - Beginner
 https://watchandcode.com/p/practical-javascript
