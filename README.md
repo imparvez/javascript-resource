@@ -9,6 +9,9 @@ http://jilles.me/awesome-javascript-array-methods/
 3. Event Delegation
 https://davidwalsh.name/event-delegate
 
+4. Use JavaScript Fetch API to get data
+https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
+
 ### Online Video Courses:
 1. Watch and Code - Beginner
 https://watchandcode.com/p/practical-javascript
