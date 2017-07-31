@@ -37,6 +37,8 @@ https://gist.github.com/anonymous/7a5017309f338bc055fd4183a03d70ee
 
 13. [`es6` import, export, default cheatsheet](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
 
+14. [Selecting Elements](https://blog.garstasio.com/you-dont-need-jquery/selectors/)
+
 
 ### Online Video Courses:
 1. Watch and Code - Beginner
