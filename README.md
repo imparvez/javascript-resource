@@ -39,6 +39,11 @@ https://gist.github.com/anonymous/7a5017309f338bc055fd4183a03d70ee
 
 14. [Selecting Elements](https://blog.garstasio.com/you-dont-need-jquery/selectors/)
 
+### Books
+1. Algorithms
+   * [CoderByte](https://coderbyte.com/CodingArea/Ebook/fj84mui48eerb/CoderbyteEbook.pdf)
+2. JavaScript/Jquery
+   * Jquery Tips and Tricks
 
 ### Online Video Courses:
 1. Watch and Code - Beginner
