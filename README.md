@@ -4,11 +4,11 @@
 https://gist.github.com/anonymous/de71cb1402bfda45a9c8202e4ec60f0f
 
 2. Arrays
- * [JavaScript Arrays method](http://jilles.me/awesome-javascript-array-methods/)
- * [Working with JavaScript Arrays like a Boss](https://hackernoon.com/work-with-javascript-arrays-like-a-boss-97207a042e42)
+ 	* [JavaScript Arrays method](http://jilles.me/awesome-javascript-array-methods/)
+ 	* [Working with JavaScript Arrays like a Boss](https://hackernoon.com/work-with-javascript-arrays-like-a-boss-97207a042e42)
 
 3. Event Delegation
-https://davidwalsh.name/event-delegate
+  * [David Walsh](https://davidwalsh.name/event-delegate)
 
 4. Use JavaScript Fetch API to get data
 https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
@@ -17,19 +17,19 @@ https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
 https://gist.github.com/anonymous/7a5017309f338bc055fd4183a03d70ee
 
 6. Callbacks
- * https://zellwk.com/blog/callbacks/ 	
+ 	* https://zellwk.com/blog/callbacks/ 	
 
 7. ES6
- * https://zellwk.com/blog/es6/ 	
+ 	* https://zellwk.com/blog/es6/ 	
 
 8. JavaScript's Scope
- * [Understand JavaScript Variable Scope with ease](https://hackernoon.com/understand-javascript-variable-scope-with-ease-221a6d41dc43) 
+ 	* [Understand JavaScript Variable Scope with ease](https://hackernoon.com/understand-javascript-variable-scope-with-ease-221a6d41dc43) 
 
 9. JavaScript's `this`
- * [Get your head around this](https://hackernoon.com/get-your-head-around-this-73c23653b102)
+ 	* [Get your head around this](https://hackernoon.com/get-your-head-around-this-73c23653b102)
 
 10. JavaScript's Closure
- * [How to use JavaScript closures with confidence](https://hackernoon.com/how-to-use-javascript-closures-with-confidence-85cd1f841a6b)
+ 	* [How to use JavaScript closures with confidence](https://hackernoon.com/how-to-use-javascript-closures-with-confidence-85cd1f841a6b)
   
 11. [Grasp “By Value” and “By Reference” in JavaScript](https://hackernoon.com/grasp-by-value-and-by-reference-in-javascript-7ed75efa1293)
 
