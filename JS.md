@@ -37,3 +37,11 @@ Type coercion is a topic that is closely associated with loose typing. Since dat
 "7" + 7 + 7; // = 777
 ```
 In the examples above, arithmetic is carried out as normal (left to right) until a String is encountered. From that point forward, all entities are converted to a String and then concatenated.
+
+
+***Window and Document in JavaScript:***
+`window` is the main JavaScript object root aka the global object in a browser, also can be treated as the root of the document object model. You can access it as `window` in most of the cases (in the browser).
+`window.screen` is a small information object about physical screen dimensions.
+`window.document` or just `document` is the main object of the visible (or better yet: rendered) document object model/DOM.
+-  `window` is the execution context and global object for that context's JS. It represents the browser window
+- `document` contains the HTML. It represents the HTML document loaded in that window.
