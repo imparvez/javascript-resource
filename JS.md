@@ -1,6 +1,5 @@
 # All About JavaScript
-##### A. What is JavaScript?
-***Ans.*** 
+***What is JavaScript?***
 1. It is the most commonly used client side scripting language. 
 2. It was created by Brendan Eich.
 3. It is more of a scripting language then a programming language as over here it manipulate browser to do all the dirty work.
@@ -45,3 +44,19 @@ In the examples above, arithmetic is carried out as normal (left to right) until
 `window.document` or just `document` is the main object of the visible (or better yet: rendered) document object model/DOM.
 -  `window` is the execution context and global object for that context's JS. It represents the browser window
 - `document` contains the HTML. It represents the HTML document loaded in that window.
+
+***JavaScript is Async and single threaded. Explain***
+***What is thread***: a thread is a simple flow of instruction.
+An application can be single threaded (so imagine it as a single line going from the entry point of the application to its end) or multi-threaded (imagine a tree: the whole app starts from 1 point, than it branches out more and more).
+
+***Difference between single and multi thread programming paradigm:***
+| Multithreaded  | Single Threaded |
+| ------ | ------ |
+|In this type of programming multiple threads run at the same time | run at the same time. In this type of programming a single thread runs at a time. |
+| Multi threaded model doesn’t use event loop with polling | Single threaded model uses a process event loop with polling |
+| CPU time is never wasted. | CPU time is wasted. |
+| Idle time is minimum. | Idle time is more. |
+| It results in more efficient programs. | It results in less efficient programs.|
+| When one thread is paused due to some reason, other threads run as normal. | 	When one thread is paused, the system waits until this thread is resumed. |
+
+JavaScript is single threaded. That means our JavaScript code runs into a single threaded event loop at browser end(Each browser window has only one javascript thread running inside them). What makes its async is browser's event loop. Under the hood, the browser code is running multiple threads to capture event queue and then that event loop, in which your code is running gets triggered and it handles the request.
